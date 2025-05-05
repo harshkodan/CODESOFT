@@ -23,7 +23,7 @@ Welcome to **CODSOFT**, a repository showcasing my work for the Machine Learning
 ### Task 3: Customer Churn Prediction
 - **Description**: The model predicts customer churn for a subscription-based service using historical data, including usage behavior and demographics.
 - **Techniques Used**: Logistic Regression, Random Forests, and Gradient Boosting.
-- **Dataset**: [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- **Dataset**: [Customer Churn Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 - **Model Evaluation**: The model’s performance was evaluated using accuracy and various classification metrics.
   
    **Subfolder**: [task3_customer_churn_prediction](task3_customer_churn_prediction/)
