@@ -15,7 +15,7 @@ Welcome to **CODSOFT**, a repository showcasing my work for the Machine Learning
 ### Task 2: Credit Card Fraud Detection
 - **Description**: A machine learning model that detects fraudulent credit card transactions based on a dataset containing transaction information.
 - **Techniques Used**: Logistic Regression, Decision Trees, and Random Forest for classification.
-- **Dataset**: [Credit Card Fraud Detection Dataset]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/kartik2112/fraud-detection))
+- **Dataset**: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 - **Model Evaluation**: Accuracy, Precision, Recall, and F1-score were used to evaluate model performance.
   
    **Subfolder**: [task2_credit_card_fraud_detection](task2_credit_card_fraud_detection/)
